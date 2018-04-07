@@ -1,5 +1,6 @@
 # Sensitive Data
 config/credentials.js
+config/db.js
 
 # Dependency directories
 node_modules/
